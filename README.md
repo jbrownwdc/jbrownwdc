@@ -1,4 +1,6 @@
 ### Hi there 👋
+###🔭 I’m currently working on learning more.
+###🌱 I’m currently learning C#, Azure DevOps, SQL Server
 
 <!--
 **jbrownwdc/jbrownwdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
